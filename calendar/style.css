@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+    width: 100px;
+    margin: 0 10px;
+}
+th, td {
+    padding: 2px;
+    text-align: center;
+}
+.week {
+    font-weight: bold;
+}
+.weekend {
+    font-weight: bold;
+}
